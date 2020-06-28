@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinKit", "SpinKit\SpinKit.csproj", "{CC0FC193-BA94-4C6B-AC04-15F08EE06642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinKitDemo", "SpinKitDemo\SpinKitDemo.csproj", "{7D1FA19D-403C-450B-99AC-F65F160574FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0FC193-BA94-4C6B-AC04-15F08EE06642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0FC193-BA94-4C6B-AC04-15F08EE06642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0FC193-BA94-4C6B-AC04-15F08EE06642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0FC193-BA94-4C6B-AC04-15F08EE06642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1FA19D-403C-450B-99AC-F65F160574FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1FA19D-403C-450B-99AC-F65F160574FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1FA19D-403C-450B-99AC-F65F160574FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1FA19D-403C-450B-99AC-F65F160574FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
